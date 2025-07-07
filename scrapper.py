@@ -49,3 +49,11 @@ if all_books:
     print(" Books saved successfully to books.json")
 else:
     print(" No books scraped. Please check your connection or the URL.")
+#git config --global user.name "Rohit Adhikari"
+# git config --global user.email "adhikarirohit247@gmail.com"
+#git init
+#git status=>to check the file in status
+#git diff=>to check the change in code
+#git add .
+#git commit "your mrssage"
+
